@@ -8,7 +8,7 @@
 
 # ตัวอย่าง
 
-Boxmanga manga-naruto
+Boxmanga manga-one-punch-man
 
 Boxmanga manga-boruto
 

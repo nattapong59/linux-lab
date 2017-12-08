@@ -4,6 +4,10 @@
 
 # วิธีรัน
 
+ใส่ Boxdmanga ข้างหน้า ต่อด้วย manga แล้วชื่อเรื่อง โดยช่องว่างขั้นด้วยเครื่องหมาย -
+
+# ตัวอย่าง
+
 Boxmanga manga-naruto
 
 Boxmanga manga-boruto

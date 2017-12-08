@@ -1,21 +1,10 @@
 # Boxmanga
 
-My Tool does one thing, and one thing well.
+โปรแกรมนี้เป็นการดึงรูปของ manga ต่างๆ ที่เราต้องการค้นหา
 
+# วิธีรัน
 
-# Installation
+Boxmanga manga-naruto
 
-If you don't use `pipsi`, you're missing out.
-Here are [installation instructions](https://github.com/mitsuhiko/pipsi#readme).
-
-Simply run:
-
-    $ pipsi install .
-
-
-# Usage
-
-To use it:
-
-    $ Boxmanga --help
+Boxmanga manga-boruto
 
